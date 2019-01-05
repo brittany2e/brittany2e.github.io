@@ -17,6 +17,10 @@ header .code {
   font-size: 60px;
 }
 
+h2 {
+  color: #4cce9f;
+}
+
 body {
   color:#F5F6F8;
   background: #212121;
@@ -31,12 +35,12 @@ body {
   font-family: 'Share Tech Mono', monospace;
 }
 
-.link {
+a {
   color: #4c7bcb;
 }
 
 #container {
-  margin: 8px;
+  margin: 50px;
 }
 
 img {
